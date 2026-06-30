@@ -18,7 +18,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/priyanshu-chandra-409552312/" target="blank">
@@ -46,7 +46,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -56,7 +56,7 @@
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
