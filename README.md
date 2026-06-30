@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer+in+the+Making;MERN+Stack+Developer;Learning+DSA+%7C+Web+Development;Python+%7C+Django+%7C+JavaScript;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer+in+the+Making;MERN+Stack+Developer;Learning+DSA+%7C+Web+Development;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -47,14 +47,6 @@
 ---
 
 # 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshu1617&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu1617&layout=compact&theme=tokyonight"/>
-
-</p>
 
 <p align="center">
 
